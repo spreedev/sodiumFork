@@ -8,4 +8,8 @@ self.__uv$config = {
     bundle: '/ultra/ultra.bundle.js',
     config: '/ultra/ultra.config.js',
     sw: '/ultra/ultra.sw.js',
+    bare: [
+        // Uncomment the following line
+        'spreesodium.pages.dev', // public bare server
+    ],
 };
