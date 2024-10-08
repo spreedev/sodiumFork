@@ -10,6 +10,6 @@ self.__uv$config = {
     sw: '/ultra/ultra.sw.js',
     bare: [
         // Uncomment the following line
-        'spreesodium.pages.dev', // public bare server
+        'https://artclass.site/bare/', // public bare server
     ],
 };
